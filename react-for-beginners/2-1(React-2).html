@@ -12,7 +12,8 @@
         function App() {
             const [counter, setCounter] = React.useState(0);
             const onClick = () => {
-                setCounter(counter + 1); // update and rerender
+                //setCounter(counter + 1); // update and rerender
+                setCounter((current) => current + 1); // more safety
             };
             return (
             <div>
