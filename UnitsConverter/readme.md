@@ -11,12 +11,9 @@ The units Converter made with React JS.
 * Celsius to Fahrenheit / Fahrenheit to Celsius
 
 ## Reset / Invert
-**Make the text box 0**
+**Reset** : Make the text box 0
 <p align="left"><img src="https://blog.kakaocdn.net/dn/c8RUZi/btrFkWxxxNY/kFKu0KV3PwpV2qJIyM1fDk/img.gif" width="400"></p>  
-  
-  
-  
-  
-  
-**Change the activity of text boxes to each other**
+</br>
+
+**Invert** : Change the activity of text boxes to each other
 <p align="left"><img src="https://blog.kakaocdn.net/dn/ceykMT/btrFmWRP4ah/8JkqABYMn6h0mK0HhF9Fz0/img.gif" width="400"></p>  
