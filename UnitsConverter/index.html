@@ -122,8 +122,11 @@
                         <input
                             value={
                                 inverted
-                                    ? Math.round(((temp - 32) / 1.8) * 100) /
-                                      100
+                                    ? temp === 0
+                                        ? 0
+                                        : Math.round(
+                                              ((temp - 32) / 1.8) * 100
+                                          ) / 100
                                     : temp
                             }
                             id="celsius"
@@ -136,7 +139,13 @@
                     <div>
                         <label htmlfor="Fahrenheit">Fahrenheit</label>
                         <input
-                            value={inverted ? temp : (temp * 9) / 5 + 32}
+                            value={
+                                inverted
+                                    ? temp
+                                    : temp === 0
+                                    ? 0
+                                    : (temp * 9) / 5 + 32
+                            }
                             id="fahrenheit"
                             placeholder="Fahrenheit"
                             type="number"
