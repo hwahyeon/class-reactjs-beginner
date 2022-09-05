@@ -18,7 +18,7 @@ function Hello() {
         console.log("created");
         return byFn;
     }
-    useEffect(effectFn, []);
+    useEffect(hiFn, []);
     return <h1>Hello</h1>;
 }
 
