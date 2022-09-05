@@ -19,7 +19,7 @@ function App() {
   }, [keyword]);
   useEffect(()=>{
     console.log("I run when keyword & counter change.");
-  }, [keyword, counter])
+  }, [keyword, counter]);
   // []에 있는 것이 변화할 때마다 렌더링하란 뜻.
   return (
     <div>
@@ -28,6 +28,6 @@ function App() {
       <button onClick={onClick}>Click me</button>
     </div>
   );
-}
+};
 
 export default App;
