@@ -2,7 +2,7 @@
 
 This course consists of both **old and new styles of React**. I learned the new style course first, so I'll document it first.  
 
-Traces of studying basic can be found in these folders
+Traces of studying basic theories can be found in these folders
 * react-for-beginners
 * react-for-beginners-old
 * react_app
