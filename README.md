@@ -12,8 +12,8 @@ Traces of studying basic theories can be found in these folders
 
 This course has four small projects.
 * [Units Converter](https://github.com/hwahyeon/reactjs/tree/main/UnitsConverter)
-* [To Do List]()
-* [Coin Tracker]()
+* [To Do List](https://github.com/hwahyeon/reactjs_small)
+* [Coin Tracker](https://github.com/hwahyeon/reactjs_small)
 * [Movie App]()
 
 
