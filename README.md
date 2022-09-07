@@ -1,4 +1,4 @@
-# ReactJS로 영화 웹 서비스 만들기
+# React Fundamentals
 
 This course consists of both **old and new styles of React**. I learned the new style course first, so I'll document it first.  
 
