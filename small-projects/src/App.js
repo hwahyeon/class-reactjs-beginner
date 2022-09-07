@@ -7,9 +7,9 @@ function App() {
     return (
         <Router>
             <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/todo" element={<Todo />} />
-                <Route path="/coin" element={<Coin />} />
+                <Route path="/reactjs/" element={<Home />} />
+                <Route path="/reactjs/todo" element={<Todo />} />
+                <Route path="/reactjs/coin" element={<Coin />} />
             </Routes>
         </Router>
     );
