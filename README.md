@@ -1,20 +1,22 @@
-# React Fundamentals
+# React for Beginners
 
-This course consists of both **old style(Class-based) and new style(Functional) of React**. I learned the new style course first, so I'll document it first.  
+`React` `React Router` `Github Pages` `JSX`
 
-Traces of studying basic theories can be found in these folders
-* react-for-beginners
-* react-for-beginners-old
-* react_app
+## Overview
+This repository contains the summarized learning materials of **React for Beginners**.
 
+> Instructor: Nicolas Serrano Arevalo
 
-## Functional
+## Learning Contents
+- Understanding of JSX and React
+- Practicing of React Router and Github Pages
 
+## Small projects
 This course has four small projects.
-* [Units Converter](https://github.com/hwahyeon/reactjs/tree/main/UnitsConverter)
-* [To Do List](https://github.com/hwahyeon/reactjs_small)
-* [Coin Tracker](https://github.com/hwahyeon/reactjs_small)
-* [Movie App](https://github.com/hwahyeon/reactjs_movieapp)
+* [Units Converter](https://github.com/hwahyeon/reactjs-units-conv)
+* [To Do List](https://github.com/hwahyeon/reactjs-beginner-todo)
+* [Coin Tracker](https://github.com/hwahyeon/reactjs-beginner-cointrack)
+* [Movie App](https://github.com/hwahyeon/reactjs-movieapp)
 
-
-## Class-based
+## References
+[Introduction to the course](https://nomadcoders.co/react-for-beginners)
